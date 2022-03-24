@@ -1,6 +1,8 @@
 # Final-Project
 	~Group Name: TFG (The Four Gamblers)
-	~Group member names and NetIDs: Edward Huang(zihaoh3), Zhilan Wang(zhilanw2), Jiyang Xu(jiyangx3),
+	
+	~Group member names and NetIDs: Edward Huang(zihaoh3), Zhilan Wang(zhilanw2), Jiyang Xu(jiyangx3), Jinheng Li(jinheng2)
+
  
 	~Project Introduction:
 	  Our goal is to implement a Texas Hold'em game in the Rust language. Hold'em is subdivided into regular table (Cash, cash game), single table
