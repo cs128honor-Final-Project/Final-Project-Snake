@@ -1,0 +1,13 @@
+/home/vagrant/src/cs128honor/Final-Project/rust-snake/target/rls/debug/deps/stretch-58bcfaaf087a4a02.rmeta: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/geometry.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/node.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/number.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/result.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/style.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/algo.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/forest.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/id.rs
+
+/home/vagrant/src/cs128honor/Final-Project/rust-snake/target/rls/debug/deps/stretch-58bcfaaf087a4a02.d: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/geometry.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/node.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/number.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/result.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/style.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/algo.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/forest.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/id.rs
+
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/lib.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/geometry.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/node.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/number.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/result.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/style.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/algo.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/forest.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/stretch-0.3.2/src/id.rs:
