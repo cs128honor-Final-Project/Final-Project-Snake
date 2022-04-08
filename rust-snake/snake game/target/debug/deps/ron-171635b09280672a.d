@@ -1,0 +1,15 @@
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/ron-171635b09280672a.rmeta: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/mod.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/id.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/tag.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/mod.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/error.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/extensions.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/parse.rs
+
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/ron-171635b09280672a.d: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/mod.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/id.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/tag.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/mod.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/error.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/value.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/extensions.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/parse.rs
+
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/lib.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/mod.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/id.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/tag.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/de/value.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/mod.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/ser/value.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/error.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/value.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/extensions.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/ron-0.7.0/src/parse.rs:

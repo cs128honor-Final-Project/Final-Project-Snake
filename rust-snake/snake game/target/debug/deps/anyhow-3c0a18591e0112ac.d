@@ -1,0 +1,15 @@
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/anyhow-3c0a18591e0112ac.rmeta: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/backtrace.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/chain.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/context.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ensure.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/error.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/fmt.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/kind.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/macros.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ptr.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/wrapper.rs
+
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/anyhow-3c0a18591e0112ac.d: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/backtrace.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/chain.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/context.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ensure.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/error.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/fmt.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/kind.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/macros.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ptr.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/wrapper.rs
+
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/lib.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/backtrace.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/chain.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/context.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ensure.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/error.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/fmt.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/kind.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/macros.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/ptr.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/anyhow-1.0.56/src/wrapper.rs:

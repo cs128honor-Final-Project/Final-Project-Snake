@@ -1,0 +1,5 @@
+/home/vagrant/Final-Project/rust-snake/my_bevy_game/target/debug/build/libc-77cb8cafa986616f/build_script_build-77cb8cafa986616f: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.122/build.rs
+
+/home/vagrant/Final-Project/rust-snake/my_bevy_game/target/debug/build/libc-77cb8cafa986616f/build_script_build-77cb8cafa986616f.d: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.122/build.rs
+
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.122/build.rs:

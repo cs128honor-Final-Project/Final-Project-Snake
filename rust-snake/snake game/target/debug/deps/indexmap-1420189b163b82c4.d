@@ -1,0 +1,13 @@
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/indexmap-1420189b163b82c4.rmeta: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/home/vagrant/Final-Project/rust-snake/snake game/target/debug/deps/indexmap-1420189b163b82c4.d: /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs /home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs
+
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/lib.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/macros.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/equivalent.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/mutable_keys.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/util.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/map/core/raw.rs:
+/home/vagrant/.cargo/registry/src/github.com-1ecc6299db9ec823/indexmap-1.8.1/src/set.rs:
