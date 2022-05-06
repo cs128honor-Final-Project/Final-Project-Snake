@@ -48,3 +48,68 @@ impl Size {
         }
     }
 }
+
+//Drawing grid auxiliary lines
+fn draw_grid(windows: Res<Windows>, mut lines: ResMut<DebugLines>) {
+    let window = windows.get_primary().unwrap();
+    let half_win_width = 0.5 * window.width();
+    let half_win_height = 0.5 * window.height();
+    let x_space = window.width() / CELL_X_COUNT as f32;
+    let y_space = window.height() / CELL_Y_COUNT as f32;
+
+    let mut i = -1. * half_win_height;
+    while i < half_win_height {
+        lines.line(
+            Vec3::new(-1. * half_win_width, i, 0.0),
+            Vec3::new(half_win_width, i, 0.0),
+            0.0,
+        );
+        i += y_space;
+    }
+
+    i = -1. * half_win_width;
+    while i < half_win_width {
+        lines.line(
+            Vec3::new(i, -1. * half_win_height, 0.0),
+            Vec3::new(i, half_win_height, 0.0),
+            0.0,
+        );
+        i += x_space;
+    }
+
+    //drwaing vertical lines
+    lines.line(
+        Vec3::new(0., -1. * half_win_height, 0.0),
+        Vec3::new(0., half_win_height, 0.0),
+        0.0,
+    );
+}
+
+//Move commands
+fn snake_movement( //<--
+    keyboard_input: Res<Input<KeyCode>>,
+    mut head_positions: Query<&mut Position, With<SnakeHead>>,
+) {
+    for mut pos in head_positions.iter_mut() {
+        if keyboard_input.pressed(KeyCode::Left) {
+            if pos.x > 0 {
+                pos.x -= 1;
+            }
+        }
+        if keyboard_input.pressed(KeyCode::Right) {
+            if pos.x < CELL_X_COUNT as i32 - 1 {
+                pos.x += 1;
+            }
+        }
+        if keyboard_input.pressed(KeyCode::Down) {
+            if pos.y > 0 {
+                pos.y -= 1;
+            }
+        }
+        if keyboard_input.pressed(KeyCode::Up) {
+            if pos.y < CELL_Y_COUNT as i32 - 1 {
+                pos.y += 1;
+            }
+        }
+    }
+}
