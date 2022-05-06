@@ -17,3 +17,5 @@
 	~References:
 	https://bevyengine.org/
   
+  
+  We may not be able to complete this project, Because we were all busy in the rest of the semester, the pile of homework and tests made it difficult for us to have free time to work together on this project. And we also face a bigger problem that no matter how we debug bevy's dependencies, we always fail to cargo build successfully. We're sorry we couldn't finish the final project, but I think participating in the 128honor section and learning the rust language was a great experience for our coding skills. I appreciate the patient teaching and careful guidance of the seniors.
